@@ -9,9 +9,8 @@
 
 <h3 align="center">Social site :</h3>
 
- <div align="center">
+
    [<img src='https://i.ibb.co.com/wSvXSQB/3291667.png' alt='github' height='80'>](https://github.com/istiak19)  [<img src='https://i.ibb.co.com/0cN2vvd/linkedin.png' alt='linkedin' height='80'>](https://www.linkedin.com/in/https://www.linkedin.com/in/istiak-ahamed-0619at//)  [<img src='https://i.ibb.co.com/C18fKLW/facebook.png' alt='facebook' height='80'>](https://www.facebook.com/https://www.facebook.com/istiak.ahamed.19/)  [<img src='https://i.ibb.co.com/GRNdfhY/2111463.png' alt='instagram' height='80'>](https://www.instagram.com/https://www.instagram.com/istiak_anik19//)  [<img src='https://i.ibb.co.com/pQ3rH3X/5968830.png' alt='twitter' height='80'>](https://twitter.com/https://x.com/ISTIAKA13842838) 
- </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=istiak19)](https://github.com/anuraghazra/github-readme-stats)
 
