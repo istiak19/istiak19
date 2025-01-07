@@ -1,5 +1,6 @@
-### Hi there 👋, Istiak Ahamed
 ![](https://i.ibb.co.com/9ZG5pnK/Purple-Abstract-Graphic-Design-Linked-In-Article-Cover-Image.png)
+
+### Hi there 👋, Istiak Ahamed
 
 "I am Istiak Ahamed, a junior web developer with a solid foundation in front-end and back-end technologies. Passionate about crafting modern, responsive web systems, I am committed to continuous learning and skill enhancement to make a significant impact in the tech industry. "
 
