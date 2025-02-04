@@ -24,6 +24,6 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=istiak19&locale=en&hide_title=false&layout=compact&card_width=510&langs_count=5&theme=dracula&hide_border=false&order=2" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=istiak19&locale=en&hide_title=false&layout=compact&card_width=520&langs_count=5&theme=dracula&hide_border=false&order=2" alt="languages graph"  />
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=istiak19&theme=dark" alt="GitHub Streak" /></a>
 </div>
