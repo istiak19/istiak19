@@ -2,7 +2,14 @@
 
 ### Hi there 👋, Istiak Ahamed
 
-"I am Istiak Ahamed, a junior web developer with a solid foundation in front-end and back-end technologies. Passionate about crafting modern, responsive web systems, I am committed to continuous learning and skill enhancement to make a significant impact in the tech industry. "
+
+<h2 align="center">About me</h2>
+
+
+ I have a passion for problem-solving and coding, and I’m always eager to learn new technologies.
+ I'm a quick learner, hardworking, and committed to mastering web development. My expertise lies
+ in web technologies, and keen to contribute my skills to impactful projects.
+ <p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning typescript<br>🎯 Goals:  I’m always eager to learn new technologies</p>
 
 <h2 align="center">Skills</h2>
 
