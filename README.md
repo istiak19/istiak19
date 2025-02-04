@@ -11,7 +11,17 @@
 <h2 align="center">Connect Me</h2>
 
 
-[<img src='https://i.ibb.co.com/wSvXSQB/3291667.png' alt='github' height='80'>](https://github.com/istiak19)  [<img src='https://i.ibb.co.com/0cN2vvd/linkedin.png' alt='linkedin' height='80'>](https://www.linkedin.com/in/https://www.linkedin.com/in/istiak-ahamed-0619at//)  [<img src='https://i.ibb.co.com/C18fKLW/facebook.png' alt='facebook' height='80'>](https://www.facebook.com/https://www.facebook.com/istiak.ahamed.19/) [<img src='https://i.ibb.co.com/YjBqm8P/3256013.png' alt='twitter' height='80'>](https://twitter.com/https://x.com/ISTIAKA13842838)
+<div align="center">
+  <a href="https://www.linkedin.com/in/istiak-ahamed-0619at/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.facebook.com/istiak.ahamed.19/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+  <a href="https://x.com/ISTIAKA13842838" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=istiak19)](https://github.com/anuraghazra/github-readme-stats)
 
