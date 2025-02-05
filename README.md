@@ -1,6 +1,6 @@
 ![](https://i.ibb.co.com/9ZG5pnK/Purple-Abstract-Graphic-Design-Linked-In-Article-Cover-Image.png)
 
-### Hi there 👋, Istiak Ahamed and I'm Frontend Developer
+### Hi there 👋, Istiak Ahamed and I'm Jr. Web Developer
 
 
 <h2 align="center">About me</h2>
