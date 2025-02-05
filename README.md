@@ -9,7 +9,7 @@
  I have a passion for problem-solving and coding, and I’m always eager to learn new technologies.
  I'm a quick learner, hardworking, and committed to mastering web development. My expertise lies
  in web technologies, and keen to contribute my skills to impactful projects.
- <p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning typescript<br>🎯 Goals:  I’m always eager to learn new technologies</p>
+ <p align="left">✨ Creating bugs since 2021<br>📚 I'm exploring typescript<br>🎯 Goals:  I’m always eager to learn new technologies</p>
 
 <h2 align="center">Skills</h2>
 
