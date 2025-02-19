@@ -1,4 +1,4 @@
-![](https://i.ibb.co.com/Y4fsDxCJ/Linked-In-Article-Cover-Image-1.png)
+![Image](https://i.ibb.co/Y4fsDxCJ/Linked-In-Article-Cover-Image-1.png)
 
 ### Hi there 👋, Istiak Ahamed and I'm Frontend Developer
 
