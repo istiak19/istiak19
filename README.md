@@ -1,14 +1,12 @@
 ![Image](https://i.ibb.co/Y4fsDxCJ/Linked-In-Article-Cover-Image-1.png)
 
-### Hi there 👋, Istiak Ahamed and I'm Frontend Developer
+### Hi there 👋, Istiak Ahamed
 
 
 <h2 align="center">About me</h2>
 
 
- I have a passion for problem-solving and coding, and I’m always eager to learn new technologies.
- I'm a quick learner, hardworking, and committed to mastering web development. My expertise lies
- in web technologies, and keen to contribute my skills to impactful projects.
+Aspiring Frontend Developer with a strong interest in the MERN stack, focusing on building responsive and user-friendly web interfaces using React.js. Skilled in creating clean, reusable components and delivering smooth user experiences. Passionate about bringing designs to life and solving real-world problems through interactive web applications. A quick learner who enjoys working in teams, improving skills, and staying updated with the latest frontend technologies.
  <p align="left">✨ Creating bugs since 2021<br>📚 I'm exploring typescript<br>🎯 Goals:  I’m always eager to learn new technologies</p>
 
 <h2 align="center">Skills</h2>
