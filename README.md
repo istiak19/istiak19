@@ -3,7 +3,7 @@
 <h1 align="center">Hi there 👋, I'm Istiak Ahamed</h1>
 
 <p align="center">
-  Aspiring <strong>Frontend Developer</strong> with a strong interest in the <strong>MERN stack</strong>, focusing on building responsive and user-friendly web interfaces using <strong>React.js</strong>.
+Energetic and reliable professional with a strong work ethic and the ability to quickly learn and adapt to new environments. Seeking a role where I can utilize my skills, gain valuable experience, and contribute to team goals in a fast-paced setting. Committed to delivering high-quality results while continuously growing both personally and professionally.
 </p>
 
 ---
