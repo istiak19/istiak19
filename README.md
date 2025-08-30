@@ -13,7 +13,7 @@ Energetic and reliable professional with a strong work ethic and the ability to 
 - 💡 Passionate about turning designs into clean, reusable components  
 - 🚀 Creating smooth user experiences  
 - 🛠️ Breaking stuff since 2021 – and fixing it too!  
-- 📚 Currently exploring **TypeScript**  
+- 📚 Currently exploring **PostgreSQL**  
 - 🎯 Always eager to learn new technologies and grow as a developer  
 
 ---
