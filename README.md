@@ -25,26 +25,29 @@ I'm seeking a role where I can utilize my skills, gain valuable experience, and 
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills
 
-<p align="center">
-  <img src="https://i.ibb.co/0h3f64T/html.png" alt="HTML" width="50"/>
-  <img src="https://i.ibb.co/NSGQQ8G/css.png" alt="CSS" width="50"/>
-  <img src="https://i.ibb.co/MSmsBnJ/tailwind-css.png" alt="Tailwind CSS" width="50"/>
-  <img src="https://i.ibb.co/G0QdsKm/daisy-ui.png" alt="Daisy UI" width="50"/>
-  <img src="https://i.ibb.co/YZYHgfW/java-script.png" alt="JavaScript" width="50"/>
-  <img src="https://i.ibb.co/LngHzGG/react.png" alt="React" width="50"/>
-  <img src="https://i.ibb.co/HzmVMM0/react-router-dom.png" alt="React Router DOM" width="50"/>
-  <img src="https://i.ibb.co/7XDxD8w/firebase.png" alt="Firebase" width="50"/>
-  <img src="https://i.ibb.co/hWt5XR8/node-js.png" alt="Node.js" width="50"/>
-  <img src="https://i.ibb.co/fzKdc4V/nextjs.png" alt="Next.js" width="50"/>
-  <img src="https://i.ibb.co/FL7nM7m/shadcn.png" alt="Shadcn" width="50"/>
-  <img src="https://i.ibb.co/KD8Yn8V/express-js.png" alt="Express.js" width="50"/>
-  <img src="https://i.ibb.co/wJQqrgG/mongodb.png" alt="MongoDB" width="50"/>
-  <img src="https://i.ibb.co/mVmVbmn/mongoose.png" alt="Mongoose" width="50"/>
-  <img src="https://i.ibb.co/8nqt9sK/redux.png" alt="Redux" width="50"/>
-  <img src="https://i.ibb.co/prPdMXX/postgresql.png" alt="PostgreSQL" width="50"/>
-</p>
+### Frontend
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redux" height="60" alt="redux logo"  />
+</div>
 
 ---
 
