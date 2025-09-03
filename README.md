@@ -1,14 +1,17 @@
 ![Cover Image](https://i.ibb.co/Y4fsDxCJ/Linked-In-Article-Cover-Image-1.png)
 
-<h1 align="center">Hi there 👋, I'm Istiak Ahamed</h1>
+<h1 align="center">Assalamualaikum, I'm Istiak Ahamed</h1>
+
+## 👨‍💻 About Me
 
 <p align="center">
-Energetic and reliable professional with a strong work ethic and the ability to quickly learn and adapt to new environments. Seeking a role where I can utilize my skills, gain valuable experience, and contribute to team goals in a fast-paced setting. Committed to delivering high-quality results while continuously growing both personally and professionally.
+Hello there! I'm Istiak Ahamed, a dedicated Frontend Developer and Computer Science and Engineering student.
+I'm an energetic and reliable professional with a strong work ethic and the ability to quickly learn and adapt to new environments. I'm passionate about crafting interactive and user-friendly web applications, always exploring the latest technologies to stay ahead of the curve.
+
+I'm seeking a role where I can utilize my skills, gain valuable experience, and contribute to team goals in a fast-paced setting. I'm committed to delivering high-quality results while continuously growing both personally and professionally.
 </p>
 
 ---
-
-## 👨‍💻 About Me
 
 - 💡 Passionate about turning designs into clean, reusable components  
 - 🚀 Creating smooth user experiences  
