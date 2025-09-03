@@ -13,11 +13,15 @@ I'm seeking a role where I can utilize my skills, gain valuable experience, and 
 
 ---
 
-- 💡 Passionate about turning designs into clean, reusable components  
-- 🚀 Creating smooth user experiences  
-- 🛠️ Breaking stuff since 2021 – and fixing it too!  
+## 👨‍💻 Current Activities
+
+- 💡 I'm constantly learning and exploring new technologies like Machine Learning and AI. 
 - 📚 Currently exploring **PostgreSQL**  
-- 🎯 Always eager to learn new technologies and grow as a developer  
+- ✨ Passionate about turning designs into clean, reusable components.  
+- ⚙️ Creating smooth user experiences  
+- 🚀 Always curious, I love to contribute to open-source projects and enhance my knowledge.  
+- 🛠️ Breaking stuff since 2021 – and fixing it too!  
+- 🎯 Exploring Backend Development and Database Optimization.
 
 ---
 
