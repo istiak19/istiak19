@@ -41,14 +41,6 @@ Energetic and reliable professional with a strong work ethic and the ability to 
 
 ---
 
-## 🚀 Featured Projects
-
-- [💼 Portfolio Website](https://your-portfolio-link.com)
-- [📝 React Todo App](https://github.com/istiak19/todo-app)
-- [🛒 MERN E-commerce](https://github.com/istiak19/ecommerce)
-
----
-
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=istiak19&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=istiak19&theme=dark&hide_border=false)<br/>
