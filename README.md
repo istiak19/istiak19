@@ -29,7 +29,7 @@ I'm seeking a role where I can utilize my skills, gain valuable experience, and 
 
 ### Frontend
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
@@ -47,6 +47,18 @@ I'm seeking a role where I can utilize my skills, gain valuable experience, and 
   <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=redux" height="60" alt="redux logo"  />
+</div>
+
+### Backend
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="60" alt="firebase logo"  />
 </div>
 
 ---
