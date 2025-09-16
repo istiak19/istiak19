@@ -4,7 +4,7 @@
 
 ## 👨‍💻 About Me
 
-<p align="center">
+<p align="left">
 Hello there! I'm Istiak Ahamed, a dedicated Frontend Developer and Computer Science and Engineering student.
 I'm an energetic and reliable professional with a strong work ethic and the ability to quickly learn and adapt to new environments. I'm passionate about crafting interactive and user-friendly web applications, always exploring the latest technologies to stay ahead of the curve.
 
