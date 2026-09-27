@@ -1,4 +1,4 @@
-![Cover Image](https://i.ibb.co/Y4fsDxCJ/Linked-In-Article-Cover-Image-1.png)
+![Cover Image](https://i.postimg.cc/hj9mhgF2/Chat-GPT-Image-Sep-23-2026-08-09-36-AM.png)
 
 <h1 align="center">Assalamualaikum, I'm Istiak Ahamed</h1>
 
